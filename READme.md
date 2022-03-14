@@ -2,7 +2,7 @@
 
 This is a website landing page for an insurance company that showcases their products and services.
 
-### By Charmain Bonareri, 12/03/2022
+### By Charmain Bonareri, 14/03/2022
 
 
 ## Table of contents
