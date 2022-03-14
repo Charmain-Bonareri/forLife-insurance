@@ -1,4 +1,4 @@
-# Delani-Studio
+# forLife-Insurance
 
 This is a website landing page for an insurance company that showcases their products and services.
 
